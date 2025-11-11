@@ -1,7 +1,7 @@
 
-  # Health Information Website
+  # Health Information Website - DMCare of UNIDA
 
-  This is a code bundle for Health Information Website. The original project is available at https://www.figma.com/design/NhPXafHsNRij1iskkEqUsG/Health-Information-Website.
+  sistem informasi kesehatan mahasantri unida 
 
   ## Running the code
 
