@@ -1,11 +1,25 @@
+# Sistem Informasi Manajemen Data Kesehatan DMC
 
-  # Health Information Website
+Proyek ini merupakan pengembangan Sistem Informasi Manajemen Data Kesehatan berbasis web lokal yang ditujukan untuk membantu pengelolaan data kesehatan di Darussalam Medical Center (DMC) Universitas Darussalam Gontor Kelas C.
 
-  This is a code bundle for Health Information Website. The original project is available at https://www.figma.com/design/NhPXafHsNRij1iskkEqUsG/Health-Information-Website.
+Sistem ini dibuat sebagai bagian dari tugas Proyek Informatika dengan tujuan meningkatkan efisiensi pencatatan, pengelolaan, dan pelaporan data kesehatan yang sebelumnya masih dilakukan secara manual.
 
-  ## Running the code
+## Tujuan
+- Membantu pengelolaan data kesehatan secara terstruktur
+- Mengurangi risiko kehilangan dan kesalahan data
+- Mendukung pelayanan kesehatan yang lebih efektif
 
-  Run `npm i` to install the dependencies.
+## Ruang Lingkup
+Sistem mencakup pengelolaan data kesehatan mahasiswi, pencatatan rekam medis, izin sakit, stok obat, serta laporan kesehatan dengan pengaturan hak akses pengguna.
 
-  Run `npm run dev` to start the development server.
-  
+## Metode Pengembangan
+Pengembangan sistem dilakukan menggunakan metode Waterfall yang meliputi tahap analisis, perancangan, implementasi, pengujian, dan evaluasi.
+
+## Luaran
+- Aplikasi sistem informasi berbasis web lokal  
+- Laporan proyek  
+- Jurnal  
+- Infografis  
+
+## Catatan
+Proyek ini dikembangkan untuk keperluan akademik.
