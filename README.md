@@ -18,7 +18,6 @@ Pengembangan sistem dilakukan menggunakan metode Waterfall yang meliputi tahap a
 ## Luaran
 - Aplikasi sistem informasi berbasis web lokal  
 - Laporan proyek  
-- Jurnal  
 - Infografis  
 
 ## Catatan
